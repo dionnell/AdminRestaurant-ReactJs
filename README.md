@@ -4,11 +4,13 @@ Restaurant Admin es una aplicación web que permite a los usuarios administar el
 
 ## Funcionalidades
 
-- Visualización del menú y platillos disponibles.
-- Agregar, editar y eliminar platillos del manu.
+- Visualización del menú. 
+- Editar disponibilidad de platillos.
+- Agregar, editar y eliminar platillos del menu.
 - Detalle de cada platillo con descripción, precio e imagen.
-- Gestion de pedidos realizados por los usuarios.
-- seguimiento del estado del pedido.
+- Visualizacion de pedidos realizados por los usuarios en tiempo real.
+- Gestionar el estado de los pedidos.
+- Gestionar el tiempo de demora de cada pedido.
 
 
 ## Tecnologías utilizadas
